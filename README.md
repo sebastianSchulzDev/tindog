@@ -1,2 +1,1 @@
-# tindog
-app for lone dogs :D
+TinDog Starting Files
